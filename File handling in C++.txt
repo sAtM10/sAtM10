@@ -1,0 +1,249 @@
+
+
+Method of ifstream class
+--------------------------
+	1. get()
+	2. getline()
+	3. read()
+	4. tellg()
+	5. seekg()
+	6. <<
+
+
+Method of ofstream class
+--------------------------
+	1. put()
+	2. write()
+	3. write()
+	4. tellp()
+	5. seekp()
+	6. >>
+
+
+
+1. Read or Write Data using << or >>
+---------------------------------------
+
+	Write (<<) output word by word
+	---------------------------------
+		ofstream fout;
+		fout.open("abc.txt");
+		fout<<"hello world";
+		fout.close();
+
+	Read (>>) input word by word
+	------------------------------
+
+		ifstream fin;
+		fin.open("abc.txt");
+		char ch;
+
+		while(fin) 				// !fin.eof()
+		{
+			cout<<ch; 			
+			fin>>ch;
+		}
+
+		fin.close();
+
+
+2. Read or Write Data using variable
+---------------------------------------
+
+	Write
+	------
+		ofstream fout("abc.txt");
+		char sn[20],
+		int cl;
+		int ans=0;
+
+		do
+		{
+			cout<<"Enter Student Name "<<endl;
+			cin>>sn;
+			fflush(stdin);
+
+			cout<<"Enter Student Class "<<endl;
+			cin>>cl;
+			fflush(stdin);
+
+			fout<<sn<<"\t"<<cl<<endl;
+
+			cout<<"Add New Record - 1"<<endl;
+			cout<<"Exit-0"<<endl;
+			cout<<"Enter Your Choice "<<endl;
+			cin>>ans;
+
+		}while(ans==1);
+
+		fout.close();
+
+
+
+	Read
+	-----
+
+
+		ifstream fin("abc.txt");
+		char sn[20],
+		int cl;
+		int ans=0;
+
+		while(fin>>sn>>cl)
+		{
+			cout<<"Name is "<<sn<<endl;
+			cout<<"Class is "<<sl<<endl;
+			cout<<"\n\n";
+		}
+
+		fin.close();
+
+
+3. Read and Write data using get() or put()
+---------------------------------------------
+
+
+	get():-
+	----------
+		|- we can input or read data one char at a time.
+				char ch;
+				fin.get(ch);
+				ch=fin.get();       
+
+
+		|- but it can read data word by word
+
+				char ch[20];
+				fin.get(ch,20);     terminate after 20 by default  using \n
+									support space,tab
+									fix length
+									we have flush manually.
+
+
+		|- user define termination
+
+				char ch[20];
+				fin.get(ch,20,'t');  termination using 't'
+
+
+	put()
+	-------
+		it is used to write character data one by one.
+
+			fout.put(ch);  
+
+
+
+
+
+
+	Write (char by char)
+	----------------------
+		ofstream fout("abc.txt");
+		char ch='@';
+		fout.put(ch);  
+		fout.close();
+
+	Read (char by char)
+	---------------------
+		ifstream fin("abc.txt");
+		char ch;
+
+		while(fin.get(ch))
+		{
+			cout<<ch;   
+		}
+
+		fin.close();
+
+
+
+5. Read or Write data using getline() or write()
+-------------------------------------------------
+	getline()
+	----------
+		|- it is used to read or input data line by line.(sentence)
+		|- we have to fix length of sentence.
+
+		char ch[30];
+		fin.getline(ch,20);    terminate after 20 char and using \n by default
+							   support space,tab 
+							   dynamic length
+							   flush data automatically
+
+		|- we can give user define termination
+
+		char ch[30];
+		fin.getline(ch,20,'t'); terminate using 't' 
+
+
+
+	write()
+	-------
+		|- it is used to write or output line by line.
+		|- print fix length character.
+
+		char ch[20];
+		strcpy(ch,"hello world");
+		fout.write(ch,20);
+
+
+
+
+Difference B/W >> or get() or getliine()
+------------------------------------------
+
+>> 			:- word by word (terminate using space|tab|newline)			can not support space|tab|newline
+get()		:- char by char (terminate using \n) 						support space|tab|newline|fix lenght|man flush
+getline()	:- line by line (terminate using after 20 char|new line)    support space|tab|newline|dynamic length|auto flu
+
+
+
+
+Difference B/W << or put() or write()
+----------------------------------------
+
+<< 			:- word by word (terminate using newline)					can not support space|tab|newline
+put()		:- char by char (terminate using \n) 						support space|tab|newline
+write()     :- line by line (terminate using after 20 char|new line)    support space|tab|newline|fix length
+
+
+
+
+
+6. Read or Write Object using read() or write()
+----------------------------------------------------
+
+	read() 	:- it is used to read binary data from file using object.
+	write() :- it is used to write binary data on file using object.
+
+	fin.read((char*)&object,sizeof(object));
+	fout.write((char*)&object,sizeof(object));
+
+
+
+7. seekg() for input file pointer or seekp() for output file pointer
+----------------------------------------------------------------------------
+	seekg() :- move input file pointer
+	seekp() :- move output file pointer
+
+Position
+------------
+	ios::beg    0
+	ios::cur    1
+	ios::end    2
+
+
+fin.seekg(<offset>,<pos>);
+fout.seekp(<offset>,<pos>);
+
+
+8. tellg() or tellp() 
+------------------------
+	tellg() :- it is tell the current status of our input file pointer.
+	tellp() :- it is tell the current status of our output file pointer.
+
+return integer value
+
+	int p=fin.tellg();
+	int p=fout.tellp();
