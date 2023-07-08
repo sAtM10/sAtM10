@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Cf0FKs-w2tQTuUh7mLaAbXHUrGWzkWWK/view?usp=sharing](https://drive.google.com/file/d/1Cf0FKs-w2tQTuUh7mLaAbXHUrGWzkWWK/view?usp=sharing)
 
-- ⚡ Fun fact **Big Fan of Football**
+- ⚡ Fun fact **I'm a Football Fanatic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
