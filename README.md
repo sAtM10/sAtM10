@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Satwik Mukherjee</h1>
 <h3 align="center">A passionate  developer from India</h3>
 
-- 🔭 I’m currently working on [CarPricePredictor](https://github.com/sAtM10/caRprice.git)
+- 🔭 I’m currently working on [E-commerce Website]
 
 - 🌱 I’m currently learning **Frameworks, Full stack and Software development**
 
 - 👨‍💻 All of my projects are available at [https://satm10.github.io/mYsiteCss/](https://satm10.github.io/mYsiteCss/)
 
-- 💬 Ask me about **C++,OOPS, Computer Networks**
+- 💬 Ask me about **C++, Frontend, OOPS, DBMS, CN**
 
 - 📫 How to reach me **satwikmukherjee.7000@gmail.com**
 
