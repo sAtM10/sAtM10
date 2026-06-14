@@ -1,29 +1,111 @@
-<h1 align="center">Hi 👋, I'm Satwik Mukherjee</h1>
-<h3 align="center">A passionate  developer from India</h3>
+# Hi 👋, I'm Satwik Mukherjee
 
-- 🔭 I’m currently working on [E-commerce Website]
+### Software Development Engineer | .NET Developer | Full-Stack Enthusiast
 
-- 🌱 I’m currently learning **Frameworks, Full stack and Software development**
+🚀 I'm a Software Development Engineer - Executive at Generali Central Insurance, passionate about building scalable enterprise applications, solving complex business problems, and delivering high-quality software solutions.
 
-- 👨‍💻 All of my projects are available at [https://satm10.github.io/mYsiteCss/](https://satm10.github.io/mYsiteCss/)
+## 👨‍💻 About Me
 
-- 💬 Ask me about **C++, Frontend, OOPS, DBMS, CN**
+* 💼 Currently working as an **SDE - Executive at Generali Central Insurance**
+* 🔭 Working on **enterprise application modernization using .NET Core, React, SQL Server, and REST APIs**
+* 🌱 Currently learning **Advanced .NET Core, System Design, Next.js, Cloud Technologies, and Enterprise Architecture**
+* ⚡ Experienced in **Full-Stack Development, Quality Engineering, API Integration, Production Support, and CI/CD**
+* 🤖 Leveraging **Generative AI tools** to automate workflows, improve testing efficiency, and enhance development productivity
+* 🎯 Passionate about translating business requirements into scalable and maintainable software solutions
 
-- 📫 How to reach me **satwikmukherjee.7000@gmail.com**
+## 🛠️ Professional Experience
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Cf0FKs-w2tQTuUh7mLaAbXHUrGWzkWWK/view?usp=sharing](https://drive.google.com/file/d/1Cf0FKs-w2tQTuUh7mLaAbXHUrGWzkWWK/view?usp=sharing)
+### Software Development Engineer - Executive
 
-- ⚡ Fun fact **I'm a Football Fanatic**
+**Generali Central Insurance** | Jul 2024 - Present
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/satwik-mukherjee-568546226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satwik-mukherjee-568546226/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/satwik mukherjee 20bce10714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="satwik mukherjee 20bce10714" height="30" width="40" /></a>
-<a href="https://instagram.com/_satwik_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_satwik_10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/satwik_mukherje1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/satwik_mukherje1?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/user6955gl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user6955gl/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/satwikmukherjee7000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satwikmukherjee7000" height="30" width="40" /></a>
-</p>
+* Developing and maintaining enterprise-grade applications using **C#, .NET, React, and SQL Server**
+* Resolving Change Requests (CRs) and Service Requests (SRs) for business-critical applications
+* Designing and optimizing complex SQL queries and stored procedures
+* Integrating and testing REST and SOAP APIs
+* Managing deployments and release activities across UAT and production environments
+* Collaborating with cross-functional teams in Agile and Waterfall methodologies
+* Performing production support, debugging, and root cause analysis for critical issues
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🚀 Featured Projects
+
+### GC-Connect Enterprise Portal Revamp
+
+* Modernizing a legacy enterprise portal using **.NET Core**
+* Implementing GitHub CI/CD pipelines and automated deployment workflows
+* Delivering modules aligned with business requirements and QA standards
+
+### E-Commerce Web Application
+
+* Built using **React, JavaScript, REST APIs**
+* Features include authentication, product management, shopping cart, and checkout workflows
+
+### Claims Management System
+
+* Production support and enhancement of mission-critical insurance claim processing applications
+* SQL optimization, API debugging, IIS deployments, and reporting solutions
+
+## 💬 Ask Me About
+
+* C#
+* .NET & .NET Core
+* React & Frontend Development
+* SQL Server & Database Design
+* REST & SOAP APIs
+* Software Development Life Cycle (SDLC)
+* Quality Engineering
+* Production Support
+* Agile & Waterfall Methodologies
+
+## 🌐 Portfolio
+
+Portfolio: https://satm10.github.io/mYsiteCss/
+
+## 📫 Reach Me
+
+📧 [satwik.mukherjee7000@gmail.com](mailto:satwik.mukherjee7000@gmail.com)
+
+## 🤝 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/satwik-mukherjee10/
+* GitHub: https://github.com/SatM10
+* LeetCode: https://leetcode.com/user6955gl/
+* GeeksForGeeks: https://auth.geeksforgeeks.org/user/satwikmukherjee7000
+
+## 🛠️ Tech Stack
+
+### Languages
+
+C#, JavaScript, C++
+
+### Backend
+
+.NET Core, ASP.NET, REST APIs, SOAP APIs
+
+### Frontend
+
+React, Next.js, HTML, CSS, JavaScript
+
+### Databases
+
+SQL Server, MySQL, MongoDB
+
+### DevOps & Tools
+
+Git, GitHub, GitHub Actions, IIS, Postman, Visual Studio, JIRA
+
+### Methodologies
+
+Agile, Waterfall, SDLC
+
+## 📈 Current Focus
+
+* Enterprise Application Development
+* Full-Stack Engineering
+* Cloud & DevOps Practices
+* System Design
+* AI-Assisted Software Development
+
+## ⚽ Fun Fact
+
+When I'm not coding, you'll probably find me watching football, exploring new technologies, or catching up on the latest movies and TV series.
